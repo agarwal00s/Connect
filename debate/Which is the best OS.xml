@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debate>
+  <topic>Which is the best OS</topic>
+  <moderator>amitesh</moderator>
+  <tags>
+    <tag>Computer Science</tag>
+  </tags>
+  <motion>
+      <name>Ubuntu</name>
+      <color>Red</color>
+  </motion>
+  <motion>
+      <name>Windows</name>
+      <color>Blue</color>
+  </motion>
+</debate>

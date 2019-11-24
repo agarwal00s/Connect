@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+  <topic>Coding</topic>
+  <author>amitesh</author>
+  <tags>
+    <tag>Computer Science</tag>
+  </tags>
+  <content>It's not a science , it's an art</content>
+</blog>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+  <topic>Music</topic>
+  <author>sourav</author>
+  <tags>
+    <tag>Leisure</tag>
+  </tags>
+  <content>Lets see if it works</content>
+</blog>

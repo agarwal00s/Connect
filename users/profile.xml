@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+  <username>Dummy</username>
+  <fullname>Dummy</fullname>
+  <email>Dummy</email>
+  <dob>Dummy</dob>
+  <aboutme>Live Love Laugh</aboutme>
+  <points>
+    <upvotes>
+      <debate>0</debate>
+      <blog>0</blog>
+      <a2a>0</a2a>
+    </upvotes>
+    <views>
+      <debate>0</debate>
+      <blog>0</blog>
+      <a2a>0</a2a>
+    </views>
+  </points>
+  <following>0</following>
+  <followers>0</followers>
+</profile>

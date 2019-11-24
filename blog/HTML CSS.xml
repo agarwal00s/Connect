@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+  <topic>HTML CSS</topic>
+  <author>vivek</author>
+  <tags>
+    <tag>Computer Science</tag>
+  </tags>
+  <content>It's not programming , it's scripting</content>
+</blog>

@@ -1,0 +1,65 @@
+.motion1{
+background-color: #7CE4FE;
+  color: #3091B2;
+}
+
+.motion2{
+background-color: #FF8F5E;
+  color: #B33C12;
+}
+.motion1:hover{
+	cursor:pointer;
+	
+}
+
+.motion2:hover{
+	cursor:pointer;
+	
+}
+.comment{
+	border-radius:30px;
+	width:100%;
+	height:100%;
+	border:2px solid #3091B2;
+	padding:10px;
+	padding-left:15px;
+	max-width:100%;
+	min-width:20%;
+	color: #3091B2;
+}
+.debatetopic{
+	border-radius:30px;
+	width:100%;
+	height:100%;
+	border:2px solid #66615B;
+	padding:10px;
+	padding-left:15px;
+	max-width:100%;
+	min-width:20%;
+	color: #66615B;
+	font-weight:bold;
+}
+
+.drop{
+	border-radius:30px;
+	width:100%;
+	height:100%;
+	border:2px solid #66615B;
+	padding:10px;
+	padding-left:15px;
+	max-width:100%;
+	min-width:20%;
+	color: #66615B;
+	font-weight:bold;
+}
+
+.dropdown #ex{
+	margin:0px;
+	color:#212120;
+}
+.dropdown #ex:hover{
+	margin:0px;
+	background-color:#212120;
+	color:white;
+	cursor:pointer;
+}	
